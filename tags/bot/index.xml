@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Bot on 天空之音 - TenonSuzu</title><link>https://ty0.icu/tags/bot/</link><description>Recent content in Bot on 天空之音 - TenonSuzu</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Wed, 06 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ty0.icu/tags/bot/index.xml" rel="self" type="application/rss+xml"/><item><title>葱喵Bot帮助</title><link>https://ty0.icu/p/mikunya-help/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://ty0.icu/p/mikunya-help/</guid><description>&lt;img src="https://ty0.icu/p/mikunya-help/cover.jpg" alt="Featured image of post 葱喵Bot帮助" />&lt;h1 id="葱喵bot帮助">葱喵Bot帮助
+&lt;/h1>&lt;h2 id="音游功能">音游功能
+&lt;/h2>&lt;p>本BOT音游相关由第三方Bot服务提供&lt;br />&lt;/p>
+&lt;h3 id="chieribot帮助">ChieriBot帮助
+&lt;/h3>&lt;p>提供了Arcaea，MaiMai，OSU！等游戏的查询&lt;br />
+&lt;a class="link" href="https://chieri.docs.chinosk6.cn" target="_blank" rel="noopener"
+>ChieriBot帮助文档&lt;/a>&lt;br />&lt;/p>
+&lt;h3 id="unibot帮助">UniBot帮助
+&lt;/h3>&lt;p>提供了ProjectSekai/世界计划的游戏查询
+&lt;a class="link" href="https://docs.unipjsk.com" target="_blank" rel="noopener"
+>Unibot使用帮助&lt;/a>&lt;br />&lt;/p>
+&lt;blockquote>
+&lt;p>Unibot内猜曲，猜卡面等功能需要联系bot主单独开放&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="maimaidx">MaiMaiDX
+&lt;/h3>&lt;p>请在群内发送&lt;code>帮助MaiMaiDX&lt;/code>获取帮助图片&lt;br />&lt;/p>
+&lt;h2 id="实用功能">实用功能
+&lt;/h2>&lt;h3 id="天气">天气
+&lt;/h3>&lt;p>发送&lt;code>天气 城市&lt;/code>或&lt;code>城市 天气&lt;/code>获取天气&lt;/p>
+&lt;h3 id="签到">签到
+&lt;/h3>&lt;p>&lt;code>签到&lt;/code> 进行签到&lt;br />&lt;/p>
+&lt;h3 id="状态">状态
+&lt;/h3>&lt;p>&lt;code>状态&lt;/code> 查看机器人运行状态&lt;/p>
+&lt;h3 id="偷窥">偷窥
+&lt;/h3>&lt;p>&lt;code>cb peek&lt;/code> 偷窥bot主的屏幕&lt;/p>
+&lt;h3 id="反馈">反馈
+&lt;/h3>&lt;p>&lt;code>.send+反馈内容&lt;/code>向维护组成员发送反馈&lt;/p>
+&lt;blockquote>
+&lt;p>请合理使用&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="steam订阅">steam订阅
+&lt;/h3>&lt;p>&lt;code>steambind&lt;/code> [STEAM ID/steam好友码] 绑定steam&lt;br />
+&lt;code>steamcheck&lt;/code> 呼出本群订阅列表&lt;br />&lt;/p>
+&lt;h2 id="娱乐功能">娱乐功能
+&lt;/h2>&lt;h3 id="今日运势">今日运势
+&lt;/h3>&lt;p>&lt;code>今日运势&lt;/code> 查看今天的运势&lt;/p>
+&lt;h3 id="猜单词">猜单词
+&lt;/h3>&lt;p>&lt;code>wordle [options]&lt;/code> 开启游戏
+可用选项：&lt;br />
+&lt;code>-l&lt;/code>,&lt;code>--length&lt;/code> 指定单词长度，默认为5（在选项后跟数字）&lt;br />
+&lt;code>-d&lt;/code>,&lt;code>--dic&lt;/code> 指定词典，默认为CET4&lt;br />
+可选词典：&lt;br />
+GRE,考研,GMAT,专四,TOFEL,SAT,专八,IELTS,CET4,CET6&lt;br />
+&lt;del>BOT主：我是一个也看不懂&lt;/del>&lt;br/>
+&lt;code>--hint&lt;/code> 获取提示&lt;br />
+&lt;code>--stop&lt;/code> 停止游戏&lt;br />&lt;/p>
+&lt;h3 id="猜成语">猜成语
+&lt;/h3>&lt;p>&lt;code>猜成语 [options]&lt;/code>开启游戏&lt;br />
+可用选项:&lt;br />
+&lt;code>--hint&lt;/code> 获取提示&lt;br />
+&lt;code>--stop&lt;/code> 停止游戏&lt;br />
+&lt;code>--strict&lt;/code> 开启严格模式，即猜测短语必须为成语&lt;br />&lt;/p>
+&lt;h3 id="头像表情包">头像表情包
+&lt;/h3>&lt;p>触发指令：指令+@某人/qq号/自己/【图片】
+支持的指令：&lt;br />&lt;/p>
+&lt;blockquote>
+&lt;p>请在群内发送&lt;code>头像表情包帮助&lt;/code>获取帮助&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="娶群友">娶群友
+&lt;/h3>&lt;ul>
+&lt;li>&lt;code>娶群友&lt;/code> 纯爱，一天刷新一次，双向奔赴&lt;br />&lt;/li>
+&lt;li>&lt;code>娶群友@name&lt;/code> 有概率娶到艾特的人&lt;br />&lt;/li>
+&lt;li>&lt;code>分手&lt;/code>，&lt;code>离婚&lt;/code> 字面意思&lt;br />&lt;/li>
+&lt;li>&lt;code>本群cp&lt;/code> 查看当前群内cp&lt;br />&lt;/li>
+&lt;li>&lt;code>群友卡池&lt;/code> 查看当前群可以娶到的群友列表&lt;br />&lt;/li>
+&lt;li>&lt;code>透群友&lt;/code> 字面意思，每次抽到的结果都不一样&lt;br />&lt;/li>
+&lt;li>&lt;code>涩涩记录&lt;/code> 查看当前群群友今日透群友次数和被透次数，记录跨群&lt;br />
+&lt;del>群友背地里玩的挺花&lt;/del>&lt;/li>
+&lt;/ul></description></item></channel></rss>

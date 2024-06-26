@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ALLIN on 天空之音 - TenonSuzu</title><link>https://ty0.icu/categories/allin/</link><description>Recent content in ALLIN on 天空之音 - TenonSuzu</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ty0.icu/categories/allin/index.xml" rel="self" type="application/rss+xml"/><item><title>关于我</title><link>https://ty0.icu/p/about-ty0/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://ty0.icu/p/about-ty0/</guid><description>&lt;img src="https://ty0.icu/p/about-ty0/cover.jpg" alt="Featured image of post 关于我" />&lt;h1 id="关于我">关于我
+&lt;/h1>&lt;h3 id="div-aligncenter我是天音铃在校学生就读高中喜欢瞎折腾div">&lt;div align="center">我是天音铃，在校学生，就读高中，喜欢瞎折腾&lt;/div>
+&lt;/h3>&lt;ul>
+&lt;li>
+&lt;p>🔭 我现在正在制作QQBot-葱喵Bot&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>🌱 现在正在学习Python和JavaScript&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>❓ 询问任何有关我的有趣信息&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>⚡ 有趣的事实：我看到傻逼我就会死&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;br/>
+&lt;h2 id="my-skill-set">My Skill Set
+&lt;/h2>&lt;table>&lt;tr>&lt;td valign="top" width="33%">
+&lt;h3 id="frontend">Frontend
+&lt;/h3>&lt;div align="center">
+&lt;a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />&lt;/a>
+&lt;/div>
+&lt;/td>&lt;td valign="top" width="33%">
+&lt;h3 id="backend">Backend
+&lt;/h3>&lt;div align="center">
+&lt;a href="https://www.javascript.com/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />&lt;/a>
+&lt;a href="https://www.typescriptlang.org/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />&lt;/a>
+&lt;a href="https://www.php.net/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />&lt;/a>
+&lt;a href="https://nodejs.org/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />&lt;/a>
+&lt;a href="https://www.linux.org/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />&lt;/a>
+&lt;a href="https://www.nginx.com/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />&lt;/a>
+&lt;a href="https://www.python.org/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />&lt;/a>
+&lt;a href="https://github.com/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />&lt;/a>
+&lt;a href="https://www.gnu.org/software/bash/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />&lt;/a>
+&lt;/div>
+&lt;/td>&lt;td valign="top" width="33%">
+&lt;h3 id="devops">DevOps
+&lt;/h3>&lt;div align="center">
+&lt;a href="https://aws.amazon.com/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />&lt;/a>
+&lt;a href="https://www.linux.org/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />&lt;/a>
+&lt;a href="https://github.com/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />&lt;/a>
+&lt;a href="https://www.gnu.org/software/bash/" target="_blank">&lt;img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />&lt;/a>
+&lt;/div>
+&lt;/td>&lt;/tr>&lt;/table>
+&lt;br/>
+&lt;h2 id="connect-with-me">Connect with me
+&lt;/h2>&lt;div align="center">
+&lt;a href="https://github.com/YoisakiKnd" target="_blank">
+&lt;img src=https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white alt=github style="margin-bottom: 5px;" />
+&lt;/a>
+&lt;a href="https://twitter.com/anyakanade" target="_blank">
+&lt;img src=https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white alt=twitter style="margin-bottom: 5px;" />
+&lt;/a>
+&lt;/div>
+&lt;br/>
+&lt;h2 id="github-stats">Github Stats
+&lt;/h2>&lt;div align="center">&lt;img src="https://github-readme-stats.vercel.app/api?username=YoisakiKnd&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" align="center" />&lt;/div>
+&lt;br/>
+&lt;div align="center">
+&lt;img src="https://komarev.com/ghpvc/?username=YoisakiKnd&amp;&amp;style=flat-square" align="center" />
+&lt;/div>
+&lt;br/>
+&lt;br />
+&lt;hr></description></item></channel></rss>
